@@ -14,7 +14,7 @@
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://riquelme3m.github.io/iJunior-Testimonials-Grid/](https://riquelme3m.github.io/iJunior-Testimonials-Grid/)
 
 ### Built With
 
